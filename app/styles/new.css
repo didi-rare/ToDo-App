@@ -33,9 +33,10 @@ a:hover {
 .list .item .actions {
     float: right;
     margin-right: 20px; }
+.actions a{
+    margin-left: 8px;}
 .list .item .actions .delete {
-    color: #ed5a5a;
-    margin-left: 10px; }
+    color: #ed5a5a; }
 .list .item .actions .delete:hover {
     color: #f28888; }
 .list .item.editing-item .actions {
